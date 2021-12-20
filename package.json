@@ -1,0 +1,26 @@
+{
+  "name": "contract-loadbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkBlock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatlko13/contract-loadbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatlko13/contract-loadbot/issues"
+  },
+  "homepage": "https://github.com/rajatlko13/contract-loadbot#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "get-folder-size": "^2.0.1",
+    "web3": "^1.6.1"
+  }
+}
